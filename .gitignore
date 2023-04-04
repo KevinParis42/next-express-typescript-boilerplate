@@ -1,2 +1,9 @@
-./back/node_modules
-./front/node_modules
+# node modules
+*/node_modules
+
+# .env
+back/.env
+front/.env.local
+
+# dist
+back/dist
